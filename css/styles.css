@@ -29,7 +29,7 @@ h1 {color: blue;
         background-color: yellowgreen;
     }
     .column {
-        width: 300px;
+        width: 250px;
         float: left;
     }
     .sidebar {
@@ -49,12 +49,18 @@ h1 {color: blue;
         }
     }
     .column {
-        width: 300px;
+        width: 200px;
         float: left;
         padding: 60px;
     }
     .column {
-        width: 300px;
+        width: 200px;
         float: left;
         padding: 60px;
     }
+    div {
+        width: 100px;
+        border: 15px solid coral;
+        padding: 20px;
+        margin: 20px;
+      }
