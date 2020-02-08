@@ -60,7 +60,7 @@ h1 {color: blue;
     }
     div {
         width: 100px;
-        border: 15px solid coral;
+        border: 15px solid rgb(255, 80, 232);
         padding: 20px;
         margin: 20px;
       }
