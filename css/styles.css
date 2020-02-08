@@ -53,3 +53,8 @@ h1 {color: blue;
         float: left;
         padding: 60px;
     }
+    .column {
+        width: 300px;
+        float: left;
+        padding: 60px;
+    }
