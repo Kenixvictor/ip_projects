@@ -45,7 +45,11 @@ h1 {color: blue;
     }
     @media screen and (min-width: 768px){
         body{
+<<<<<<< HEAD
             background-color: rgb(62, 14, 94);
+=======
+            background-color: yellowgreen;
+>>>>>>> gh-pages
         }
     }
     .column {
